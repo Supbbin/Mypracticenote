@@ -1,0 +1,2 @@
+# Mypracticenote
+python practice note
